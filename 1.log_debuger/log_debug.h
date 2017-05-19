@@ -15,6 +15,7 @@
 #define LOG_DEBUG(fmt, ...) printf("%s:%d:%s: " fmt, \
         __FILE__, __LINE__, FUNC, ##__VA_ARGS__)
 #elif   LOG
+/*  */
 #define LOG_DEBUG(fmt, ...) printf("(%s) %s:%d:%s: " fmt, \
         __TIME__, __FILE__, __LINE__, FUNC, ##__VA_ARGS__)
 #elif   LOG_DATE
