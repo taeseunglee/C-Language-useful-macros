@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "../log_debug.h"
-#include "test.h"
+#include "c_test.h"
 
 int func2();
 
