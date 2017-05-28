@@ -1,0 +1,5 @@
+c_test.h:4:func1: func1 start
+c_test.h:6:func1: func1 end
+c_test.c:20:func2: func2 start
+c_test.c:26:func2: func2 end
+c_test.c:12:main: Return Value of func2 is 10

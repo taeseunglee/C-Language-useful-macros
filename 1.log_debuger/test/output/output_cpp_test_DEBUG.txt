@@ -1,0 +1,6 @@
+cpp_test.cpp:12:Test::Test(): Test Constructor
+cpp_test.cpp:12:Test::Test(): Test Constructor
+cpp_test.cpp:23:float Test::func(float): 2*a: 4.000000
+cpp_test.cpp:18:int Test::func(int): 2*a: 4
+cpp_test.cpp:15:Test::~Test(): Test Destructor
+cpp_test.cpp:15:Test::~Test(): Test Destructor
